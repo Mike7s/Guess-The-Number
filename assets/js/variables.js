@@ -1,0 +1,9 @@
+export const playerChoice = document.querySelector('.playerChoice');
+export const container = document.querySelector('.container')
+export const guessNumber = document.querySelector('.guessNumber');
+export const write = document.querySelector('.write');
+export const spanscore = document.querySelector('.score');
+export const spanchances = document.querySelector('.chances');
+export const spanhighestScore = document.querySelector('.highestScore');
+export const retry = document.querySelector('.retry');
+export const infoNumberDiv = document.querySelector('.infoNumber');
